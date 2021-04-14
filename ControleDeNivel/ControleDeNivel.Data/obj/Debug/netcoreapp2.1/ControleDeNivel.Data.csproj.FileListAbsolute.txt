@@ -1,0 +1,14 @@
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\bin\Debug\netcoreapp2.1\ControleDeNivel.Data.deps.json
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\bin\Debug\netcoreapp2.1\ControleDeNivel.Data.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\bin\Debug\netcoreapp2.1\ControleDeNivel.Data.pdb
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\bin\Debug\netcoreapp2.1\ControleDeNivel.Models.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\bin\Debug\netcoreapp2.1\ControleDeNivel.Models.pdb
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\obj\Debug\netcoreapp2.1\ControleDeNivel.Data.csprojAssemblyReference.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\obj\Debug\netcoreapp2.1\ControleDeNivel.Data.csproj.CoreCompileInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\obj\Debug\netcoreapp2.1\ControleDeNivel.Data.AssemblyInfoInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\obj\Debug\netcoreapp2.1\ControleDeNivel.Data.AssemblyInfo.cs
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\obj\Debug\netcoreapp2.1\ControleDeNivel.Data.csproj.CopyComplete
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\obj\Debug\netcoreapp2.1\ControleDeNivel.Data.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Data\obj\Debug\netcoreapp2.1\ControleDeNivel.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Models\bin\Debug\netcoreapp2.1\ControleDeNivel.Models.deps.json
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Models\bin\Debug\netcoreapp2.1\ControleDeNivel.Models.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Models\bin\Debug\netcoreapp2.1\ControleDeNivel.Models.pdb
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Models\obj\Debug\netcoreapp2.1\ControleDeNivel.Models.csprojAssemblyReference.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Models\obj\Debug\netcoreapp2.1\ControleDeNivel.Models.csproj.CoreCompileInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Models\obj\Debug\netcoreapp2.1\ControleDeNivel.Models.AssemblyInfoInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Models\obj\Debug\netcoreapp2.1\ControleDeNivel.Models.AssemblyInfo.cs
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Models\obj\Debug\netcoreapp2.1\ControleDeNivel.Models.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Models\obj\Debug\netcoreapp2.1\ControleDeNivel.Models.pdb
