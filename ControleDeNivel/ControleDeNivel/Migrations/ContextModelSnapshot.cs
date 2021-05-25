@@ -78,22 +78,6 @@ namespace ControleDeNivel.Migrations
 
                     b.Property<DateTime>("DataDeAtualizacao");
 
-                    b.Property<bool>("I00");
-
-                    b.Property<bool>("I01");
-
-                    b.Property<bool>("I02");
-
-                    b.Property<bool>("I03");
-
-                    b.Property<bool>("I04");
-
-                    b.Property<bool>("I05");
-
-                    b.Property<bool>("I06");
-
-                    b.Property<bool>("I07");
-
                     b.Property<int>("IdDeviceInfo");
 
                     b.Property<int>("MessagemNum");
@@ -113,6 +97,22 @@ namespace ControleDeNivel.Migrations
                     b.Property<bool>("Q06");
 
                     b.Property<bool>("Q07");
+
+                    b.Property<bool>("Q10");
+
+                    b.Property<bool>("Q11");
+
+                    b.Property<bool>("Q12");
+
+                    b.Property<bool>("Q13");
+
+                    b.Property<bool>("Q14");
+
+                    b.Property<bool>("Q15");
+
+                    b.Property<bool>("Q16");
+
+                    b.Property<bool>("Q17");
 
                     b.Property<double>("Temperatura");
 

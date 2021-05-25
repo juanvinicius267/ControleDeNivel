@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Business\\ControleDeNivel.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Business\\ControleDeNivel.Business.csproj",
+        "projectName": "ControleDeNivel.Business",
+        "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Business\\ControleDeNivel.Business.csproj",
+        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Data\\ControleDeNivel.Data.csproj": {
+                "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Data\\ControleDeNivel.Data.csproj"
+              },
+              "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\ControleDeNivel.Models.csproj": {
+                "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\ControleDeNivel.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Routing.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Data\\ControleDeNivel.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Data\\ControleDeNivel.Data.csproj",
+        "projectName": "ControleDeNivel.Data",
+        "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Data\\ControleDeNivel.Data.csproj",
+        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\ControleDeNivel.Models.csproj": {
+                "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\ControleDeNivel.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\ControleDeNivel.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\ControleDeNivel.Models.csproj",
+        "projectName": "ControleDeNivel.Models",
+        "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\ControleDeNivel.Models.csproj",
+        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.csproj",
+        "projectName": "ControleDeNivel",
+        "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.csproj",
+        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Business\\ControleDeNivel.Business.csproj": {
+                "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Business\\ControleDeNivel.Business.csproj"
+              },
+              "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Data\\ControleDeNivel.Data.csproj": {
+                "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Data\\ControleDeNivel.Data.csproj"
+              },
+              "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\ControleDeNivel.Models.csproj": {
+                "projectPath": "C:\\Users\\Juan\\source\\repos\\ControleDeNivel\\ControleDeNivel\\ControleDeNivel.Models\\ControleDeNivel.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

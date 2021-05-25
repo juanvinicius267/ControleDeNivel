@@ -78,7 +78,7 @@
           <canvas id="valOkLed" width="60" height="60"></canvas>
         </div>
         <div class="col-12 col-lg-6">
-          <h4>VALVULA PROBLEM</h4>
+          <h4>VALVULA NOT OK</h4>
           <canvas id="valProblemLed" width="60" height="60"></canvas>
         </div>
       </div>
@@ -92,7 +92,7 @@
         <div class='col-12 col-lg-6'>
           <h4>TEMP. OK</h4>
           <canvas id="tempOkLed" width="60" height="60"></canvas>
-          <h4>TEMP. PROBLEM</h4>
+          <h4>TEMP. NOT OK</h4>
           <canvas id="tempProblemLed" width="60" height="60"></canvas>
         </div>
       </div>
@@ -106,7 +106,7 @@
     integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
     crossorigin="anonymous"></script>
   <script>
-let urlBase = "https://localhost:5001";
+let urlBase = "http://localhost:5000";
 
 
     let canvasArray = ['motorOnLed', 'motorOffLed', 'valOkLed', 'valProblemLed', 'tempOkLed', 'tempProblemLed'];
@@ -169,7 +169,7 @@ let urlBase = "https://localhost:5001";
                 ctx.fill();
             }
         }
-        var wanted = mensagens.filter( function(mensagem){return (mensagem.idMensagem==data.messagemNum);} );
+        var wanted = mensagens.filter( function(mensagem){return (mensagem.tipo==data.messagemNum);} );
         
         document.getElementById('mensagem').innerHTML = `<h3>${wanted[0].descrição}</h3>`
         document.getElementById('temp').innerHTML = data.temperatura+"ºC"

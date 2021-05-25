@@ -20,3 +20,17 @@ C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Business\bin
 C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
 C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.xml
 C:\Users\ssbjvq.GLOBAL\source\repos\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\obj\Debug\netcoreapp2.1\ControleDeNivel.Business.csprojAssemblyReference.cache
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\obj\Debug\netcoreapp2.1\ControleDeNivel.Business.AssemblyInfoInputs.cache
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\obj\Debug\netcoreapp2.1\ControleDeNivel.Business.AssemblyInfo.cs
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\obj\Debug\netcoreapp2.1\ControleDeNivel.Business.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\obj\Debug\netcoreapp2.1\ControleDeNivel.Business.dll
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\obj\Debug\netcoreapp2.1\ControleDeNivel.Business.pdb
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\ControleDeNivel.Business.deps.json
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\ControleDeNivel.Business.dll
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\ControleDeNivel.Business.pdb
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\ControleDeNivel.Data.dll
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\ControleDeNivel.Models.dll
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\ControleDeNivel.Data.pdb
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\bin\Debug\netcoreapp2.1\ControleDeNivel.Models.pdb
+C:\Users\Juan\Source\Repos\ControleDeNivel\ControleDeNivel\ControleDeNivel.Business\obj\Debug\netcoreapp2.1\ControleDeNivel.Business.csproj.CopyComplete

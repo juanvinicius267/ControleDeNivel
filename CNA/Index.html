@@ -145,7 +145,7 @@
       crossorigin="anonymous"
     ></script>
     <script>
-let urlBase = "https://localhost:5001";
+let urlBase = "http://localhost:5000";
 
         let canvasArray = ['falhaCanvas','abrindoLed','abertoLed','paradoLed','fechandoLed','fechadoLed'];
         let mensagens;
@@ -190,10 +190,10 @@ let urlBase = "https://localhost:5001";
       function filData(info){
         let data = JSON.parse(info);
         console.log(data);
-        let IOs = [data.i00,data.i01,data.i02,data.i03,data.i04,data.i05,data.i06,data.i07]
+        let IOs = [data.q10,data.q11,data.q12,data.q13,data.q14,data.q15,data.q16,data.q17]
         var c2 = document.getElementById(canvasArray[0]);
             var ctx2 = c2.getContext("2d");
-        if (data.i00 ==true ) {
+        if (data.q10 ==true ) {
                 ctx2.fillStyle = "red"; //blue
                 ctx2.beginPath();
                 ctx2.arc(30,30,30,0,Math.PI*2,true);
@@ -223,8 +223,9 @@ let urlBase = "https://localhost:5001";
                 ctx.fill();
             }
         }
-        var wanted = mensagens.filter( function(mensagem){return (mensagem.idMensagem==data.messagemNum);} );
         
+        var wanted = mensagens.filter( function(mensagem){return (mensagem.tipo==data.messagemNum);} );
+        console.log(mensagens)
         document.getElementById('mensagem').innerHTML = `<h3>${wanted[0].descrição}</h3>`
       }
       document.getElementById('btnAbrir').onclick = function(){
